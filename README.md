@@ -1,4 +1,5 @@
 # gitprjt
+#project description
 
 A calculator that calculates simple interest given:
 p:principal amt
